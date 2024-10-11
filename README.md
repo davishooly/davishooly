@@ -6,4 +6,4 @@ A little about me:
 - ⚡ Fun fact: I love cycling (🚴) 😁.
 
 ### What I'm up to:
-- 🏗 Leading efforts in modernizing a banking platform by migrating to micro-frontends and implementing Module Federation for seamless feature rollouts.
+- 🏗 Leading efforts in modernizing a banking platform using micro-frontends and implementing Module Federation for seamless feature rollouts.
