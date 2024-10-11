@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### Hi there 👋
 A little about me:
 - 🔭 I’m currently working on building scalable banking app services.
