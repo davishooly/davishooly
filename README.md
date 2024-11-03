@@ -1,5 +1,6 @@
 ### Hi there 👋
-A little about me:
+A bit about me:
+- Passionate about web animations and transitions using [Framer Motion](https://www.framer.com/motion/).
 - 🌱 Upskilling on platform engineering.
 - 💬 Feel free to ask me about React, Angular, RxJS, TypeScript, or anything related to frontend development.
 - ⚡ Fun fact: I love cycling (🚴) 😁.
