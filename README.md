@@ -19,14 +19,14 @@ A bit about me:
       </a>
       <br />
       <sub>Next.js · Tailwind CSS · Framer Motion</sub><br />
-       <a href="https://joelimbwaga.work">
+       <a href="https://joelimbwaga.work" target="_blank">
       🔗 joelimbwaga.work
       </a>
     </td>
      <td align="center">
       <img src="assets/lira.png" width="3456"  alt=""/>
       <br />
-      <strong>Deploying Soon</strong><br />
+       <sub>Next.js · Tailwind CSS · Framer Motion</sub><br />
       <sub>New project in progress</sub>
     </td>
   </tr>
