@@ -11,22 +11,27 @@ A bit about me:
 
 ## 🌐 Featured Work
 
-> A selection of live projects — click any preview to explore the full site.
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://joelimbwaga.work">
+        <img src="assets/joelimbwaga-work.png" width="3456"  alt=""/>
+      </a>
+      <br />
+      <sub>Next.js · Tailwind CSS · Framer Motion</sub><br />
+       <a href="https://joelimbwaga.work">
+      🔗 joelimbwaga.work
+      </a>
+    </td>
+     <td align="center">
+      <img src="assets/lira.png" width="3456"  alt=""/>
+      <br />
+      <strong>Deploying Soon</strong><br />
+      <sub>New project in progress</sub>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-
-<a href="https://joelimbwaga.work" target="_blank">
-  <img
-    src="assets/joelimbwaga-work.png"
-    width="900"
-  />
-</a>
-<sub>Next.js · Tailwind CSS · Framer Motion</sub>
-<br />
-
-🔗 <a href="https://joelimbwaga.work">joelimbwaga.work</a>
-
-</div>
 
 ---
 
