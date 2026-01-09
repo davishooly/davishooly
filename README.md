@@ -24,7 +24,7 @@ A bit about me:
       </a>
     </td>
      <td align="center">
-        <a href="https://joelimbwaga.work">
+        <a href="https://uselira.com/">
       <img src="assets/lira.png" width="3456"  alt=""/>
           </a>
       <br />
