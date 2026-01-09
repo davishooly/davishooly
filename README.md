@@ -24,10 +24,14 @@ A bit about me:
       </a>
     </td>
      <td align="center">
+        <a href="https://joelimbwaga.work">
       <img src="assets/lira.png" width="3456"  alt=""/>
+          </a>
       <br />
        <sub>Next.js · Tailwind CSS · Framer Motion</sub><br />
-      <sub>New project in progress</sub>
+      <a href="https://uselira.com/" target="_blank">
+      🔗  https://uselira.com/
+      </a>
     </td>
   </tr>
 </table>
